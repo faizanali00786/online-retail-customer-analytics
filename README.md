@@ -188,26 +188,28 @@ Identified:
 # Repository Structure
 
 ```text
-online-retail-customer-analytics/
+dashboard_screenshots/
 │
-├── dashboard screenshots/
-│   ├── dashboard1.png
-│   ├── dashboard2.png
-│   └── dashboard3.png
+├── dashboard1.png
+├── dashboard2.png
+└── dashboard3.png
+
+sql_queries/
 │
-├── sql queries/
-│   ├── 01_data_overview.sql
-│   ├── 02_data_cleaning.sql
-│   ├── 03_basic_kpis.sql
-│   ├── 04_cohort_retention_analysis.sql
-│   ├── 05_repeat_vs_onetime_customers.sql
-│   ├── 06_high_value_customer_analysis.sql
-│   ├── 07_active_vs_inactive_customers.sql
-│   ├── 08_rfm_customer_segmentation.sql
-│   ├── 09_revenue_decomposition_analysis.sql
-│   └── 10_pareto_analysis.sql
-│
-└── README.md
+├── 01_data_overview.sql
+├── 02_data_cleaning.sql
+├── 03_basic_kpis.sql
+├── 04_cohort_retention_analysis.sql
+├── 05_repeat_vs_onetime_customers.sql
+├── 06_high_value_customer_analysis.sql
+├── 07_active_vs_inactive_customers.sql
+├── 08_rfm_customer_segmentation.sql
+├── 09_revenue_decomposition_analysis.sql
+└── 10_pareto_analysis.sql
+
+dashboard.pbix
+
+README.md
 ```
 
 ---
