@@ -150,7 +150,7 @@ Identified:
 
 ### Dashboard Preview
 
-![Dashboard 1](dashboard%20screenshots/dashboard1.png)
+![Dashboard 1](dashboard_screenshots/dashboard1.png)
 
 ---
 
@@ -166,8 +166,7 @@ Identified:
 
 ### Dashboard Preview
 
-![Dashboard 2](dashboard%20screenshots/dashboard2.png)
-
+![Dashboard 2](dashboard_screenshots/dashboard2.png)
 ---
 
 # Page 3 — Customer Segmentation & Value Analysis
@@ -182,7 +181,7 @@ Identified:
 
 ### Dashboard Preview
 
-![Dashboard 3](dashboard%20screenshots/dashboard3.png)
+![Dashboard 3](dashboard_screenshots/dashboard3.png)
 
 ---
 
