@@ -250,3 +250,12 @@ This project demonstrates:
 * customer segmentation strategy
 * executive dashboard storytelling
 * data-driven business decision support
+
+
+# Online Retail Customer Analytics & Revenue Decomposition
+
+### Author
+**MD Faizan Ali**
+
+🔗 LinkedIn: www.linkedin.com/in/md-faizan-ali-31032001business
+🔗 GitHub: https://github.com/faizanali00786
